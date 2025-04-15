@@ -1,0 +1,103 @@
+**Aegis Mobile - Rugged Secure Phone Ecosystem**
+
+---
+
+## ❄️ 1. Introduction & Vision
+**Aegis Mobile** is a new breed of rugged smartphones and software ecosystem built with a single mission: **Privacy, Durability, and Tactical Utility.**
+
+Aegis is a response to the modern threat landscape where traditional smartphones are liabilities. Our users are:
+- Frontline workers
+- Outdoor professionals
+- Security-conscious individuals
+- Crisis responders
+
+They need tools, not toys.
+
+**Korean slogan**: “위험할 때는 PTT!” (“When it’s dangerous: PTT!”)
+
+---
+
+## 🏋️ 2. Product Line Overview
+
+| Model | Target | Key Features | Price (USD) |
+|---|---|---|---|
+| **Lite** | Budget users, first-time buyers | IP68, basic PTT, minimal secure OS | $349~399 |
+| **Core** | Mainstream workers, prosumers | Improved ruggedness, mid specs, good camera | $549~649 |
+| **Pro** | Professionals in tough fields | High ruggedness, premium specs, thermal cam | $799~949 |
+| **Ultra** | High-risk, high-demand users | Flagship specs, satellite, highest durability | $1199~1399+ |
+| **Guardian** | Custom B2G clients | Modular, mission-specific (NV cam, air gap) | $999~1499+ |
+
+All models have:
+- PTT physical button
+- Aegis OS (secure forked Android)
+- Offline tools
+- Security-first UX
+
+---
+
+## 📄 3. Aegis OS Concept
+A hardened Android fork, focused on **offline operation, modular control, and low digital signature.**
+
+Key modules:
+- **Stealth Mode**: disables all network emissions
+- **Comm Vault**: Zello, Signal, MeshTalk with granular control
+- **Sensor Watchdog**: alerts on unexpected activations (mic, GPS)
+- **Offline Toolkit**: compass, maps, docs, camera, encrypted vault
+- **PTT Hub**: customizable PTT assignments and UI widgets
+
+Design principles:
+- Minimum background activity
+- User control over all sensors and I/O
+- Simple, dark-themed UX
+
+---
+
+## 📝 4. Target Users & Use Cases
+
+| User Type | Needs | Aegis Benefits |
+|---|---|---|
+| Field Engineers | Durable phone, PTT, offline maps | Core/Pro with secure nav tools |
+| Security Forces | No GPS trace, fast comms, EM shield | Ultra/Guardian with stealth mode |
+| Activists | Anti-surveillance, privacy-first | Lite/Core with Aegis OS |
+| Preppers | Offline readiness, long battery | Pro with solar & modular power |
+| Journalists | Secure photos & notes, data wipe | Pro/Ultra with encrypted vault |
+
+---
+
+## 🚀 5. System Architecture & Core Technologies
+
+**System Layers:**
+1. **Hardware Platform**: Rugged SoC + Enhanced EM shielding + Expandable modules (thermal, NV cam)
+2. **Aegis OS**: Hardened Android fork, real-time telemetry control, offline support
+3. **Security Layer**:
+   - App sandboxing
+   - Emergency wipe
+   - Zero-knowledge storage
+   - Airplane/Stealth hard toggles
+4. **User Interface**:
+   - Widget-based dashboard
+   - PTT Quick Tiles
+   - Offline-first apps
+
+**Technologies Used:**
+- Open-source Android AOSP base
+- Zello SDK, Signal Protocol
+- Custom permission manager
+- Electromagnetic shielding techniques
+- E Ink lockscreen (optional variant)
+
+**Integration Stack:**
+- GitHub CI/CD for OS module updates
+- OTA via USB or trusted LAN
+- Secure Boot with hardware attestation
+
+---
+
+## 🎓 6. Developer & Contributor Guide (TBD)
+**Coming Soon**: How to contribute, compile Aegis OS, UI guidelines, and community roles.
+
+---
+
+> Document maintained by: Cloudyelectron
+> Last Updated: April 2025
+
