@@ -425,7 +425,7 @@ Stealth Toast 알림	"스텔스 모드 작동 중"이라는 간결한 알림으�
 
 🇺🇸 영어	“When it matters, Push to Talk” / “Your Shield in the Digital Jungle”
 
-
+![Aegis Logo](images/aegis-logo.png)
 
 
 
