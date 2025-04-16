@@ -1,4 +1,4 @@
-# 📱 Aegis Tactical Smartphone Series – Product Concept Document (2025 통합본 v1.1)
+# 📱 Aegis Tactical Smartphone Series – Product Concept Document (2025 통합본 v1.2)
 
 ## 🔰 1. 제품 개요 (Product Overview)
 Aegis 스마트폰 시리즈는 전술, 생존, 현장 작전을 위해 설계된 모듈형 러기드폰입니다. 호환성, 내구성, 생산 효율성을 극대화하기 위해 통합 플랫폼을 기반으로 구축되었으며, 각 모델은 특정 임무 프로필에 맞춰 제작됩니다.
