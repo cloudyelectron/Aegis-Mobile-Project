@@ -7,7 +7,7 @@ The Aegis smartphone series offers modular, ruggedized phones designed for tacti
 
 ---
 
-## ❄️ 1. Introduction & Vision
+## ❄️ Introduction & Vision
 **Aegis Mobile** is a new breed of rugged smartphones and software ecosystem built with a single mission: **Privacy, Durability, and Tactical Utility.**
 
 Aegis is a response to the modern threat landscape where traditional smartphones are liabilities. Our users are:
@@ -22,7 +22,7 @@ They need tools, not toys.
 
 ---
 
-## 🏋️ 2. Product Line Overview
+## 🏋️ Product Line Overview
 
 | Model | Target | Key Features | Price (USD) |
 |---|---|---|---|
@@ -40,7 +40,7 @@ All models have:
 
 ---
 
-## 📄 3. Aegis OS Concept
+## 📄 Aegis OS Concept
 A hardened Android fork, focused on **offline operation, modular control, and low digital signature.**
 
 Key modules:
@@ -57,7 +57,7 @@ Design principles:
 
 ---
 
-## 📝 4. Target Users & Use Cases
+## 📝 Target Users & Use Cases
 
 | User Type | Needs | Aegis Benefits |
 |---|---|---|
@@ -69,7 +69,7 @@ Design principles:
 
 ---
 
-## 🚀 5. System Architecture & Core Technologies
+## 🚀  System Architecture & Core Technologies
 
 **System Layers:**
 1. **Hardware Platform**: Rugged SoC + Enhanced EM shielding + Expandable modules (thermal, NV cam)
