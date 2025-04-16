@@ -738,5 +738,8 @@ Aegis OS는 러기드 폰에 최적화된, 생존과 보안 중심의 안드로�
 ---
 "In an uncontrolled world, the Shield is a language." 
 "통제할수 없는 세상, 방패는 곧 언어다."
+
+크래딧: Cloudyelectron, Gemini, ChatGPT
+
 > Document maintained by: Cloudyelectron
 > Last Updated: April 2025
