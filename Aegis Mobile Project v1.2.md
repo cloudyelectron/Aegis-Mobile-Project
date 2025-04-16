@@ -29,7 +29,7 @@ Aegis는 기존 스마트폰이 취약한 현대적인 위협 환경에 대한 �
 | **Lite** | 예산 사용자, 첫 구매자 (Budget users, first-time buyers) | IP68, 기본 PTT, 최소 보안 OS (IP68, basic PTT, minimal secure OS) | $349 ~ $399 |
 | **Core** | 주류 작업자, 프로슈머 (Mainstream workers, prosumers) | 향상된 견고성, 중간 사양, 좋은 카메라 (Improved ruggedness, mid specs, good camera) | $549 ~ $649 |
 | **Pro** | 열악한 환경의 전문가 (Professionals in tough fields) | 높은 견고성, 프리미엄 사양, 열화상 카메라 (High ruggedness, premium specs, thermal cam) | $799 ~ $949 |
-| **Ultra** | 고위험, 고수요 사용자 (High-risk, high-demand users) | 플래그십 사양, 위성 통신, 최고 수준의 내구성 (Flagship specs, satellite, highest durability) | $1199 ~ $1399+ |
+| **Ultra** | 고위험, 고수요 사용자 (High-risk, high-demand users) | 플래그십 사양, IR 라이트, 최고 수준의 내구성 (Flagship specs, IR Light, highest durability) | $1199 ~ $1399+ |
 | **Guardian** | 맞춤형 B2G 고객 (Custom B2G clients) | 모듈형, 임무별 맞춤 (NV 카메라, 에어 갭) (Modular, mission-specific (NV cam, air gap)) | $999 ~ $1499+ |
 
 모든 모델 공통 사항:
