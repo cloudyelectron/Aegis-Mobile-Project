@@ -732,10 +732,11 @@ Aegis OS는 러기드 폰에 최적화된, 생존과 보안 중심의 안드로�
 
 | 언어 (Language) | 슬로건 (Slogan) |
 |---|---|
-| 🇰🇷 한글 | “위험할 땐 PTT” / “디지털 정글의 방패, Aegis” | "통제할수 없는 세상, 방패는 곧 언어다."
-| 🇺🇸 영어 | “When it matters, Push to Talk” / “Your Shield in the Digital Jungle” | "In an uncontrolable world, the Shield is a language." 
+| 🇰🇷 한글 | “위험할 땐 PTT” / “디지털 정글의 방패, Aegis” | 
+| 🇺🇸 영어 | “When it matters, Push to Talk” / “Your Shield in the Digital Jungle” | 
 
 ---
-
+"In an uncontrolled world, the Shield is a language." 
+"통제할수 없는 세상, 방패는 곧 언어다."
 > Document maintained by: Cloudyelectron
 > Last Updated: April 2025
