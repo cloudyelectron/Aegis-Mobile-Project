@@ -1,4 +1,4 @@
-# Aegis Mobile Series v1.5
+# Aegis Mobile Series v1.5.1
 
 ## Overview
 The **Aegis Mobile** series is a line of ultra-rugged smartphones purpose-built for survivability, digital privacy, modular field operations, and tactical communication. Designed with ex-military, adventurers, emergency responders, and field operators in mind, every unit is built like a piece of mission-critical equipment.
