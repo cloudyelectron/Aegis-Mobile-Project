@@ -114,6 +114,7 @@ A universal hardware slot that enables:
 - **OmniPort**:
   - Attach modular accessories (radios, thermal cameras, batteries).
   - Multi-position: top left (standard), right bottom (Pro and above).
+  - Torque-Limited Screws: designed with ratchet and clutch-style torque limiters to prevent damage from over-tightening
   - Accessories include:
     - Satellite module
     - Wired thermal imaging camera
