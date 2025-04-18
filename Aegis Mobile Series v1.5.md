@@ -124,6 +124,15 @@ A universal hardware slot that enables:
   - Heavy-duty plate carrier docking via rear housing only.
 
 ---
+## Battery System
+
+ - Removable Battery: Users can manually unscrew the torque-limited screws and remove the back cover to replace the battery as needed.
+ - Modular Battery Sizes: Interchangeable back covers allow users to install batteries of various capacities: 4000mAh, 6000mAh, 6500mAh, and 7000mAh.
+ - Heatsink Cover: A battery cover with an integrated heatsink is available as an accessory (included by default from the Pro model and above).
+ - Mount-Integrated Cover: A version of the battery cover with an integrated mount is available as an optional accessory.
+ - NFC & Wireless Charging Support: Battery covers that support advanced features such as NFC and wireless charging are available as accessories.
+
+---
 
 ## Marketing Identity
 - **Lite**: "The people’s rugged phone"
