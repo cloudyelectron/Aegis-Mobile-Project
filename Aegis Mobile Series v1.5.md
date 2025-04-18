@@ -24,6 +24,7 @@ The **Aegis Mobile** series is a line of ultra-rugged smartphones purpose-built 
 ---
 
 ## Physical Design
+- **Raised top-right transceiver-style module** housing a shield-shaped LED and rear camera.
 - **Shield-style LED indicator** on front and back housing the camera.
 - **Raised rear camera/LED module** resembling a transceiver top.
 - **Honeycomb speaker grilles** on both front sides.
@@ -40,6 +41,45 @@ The **Aegis Mobile** series is a line of ultra-rugged smartphones purpose-built 
 
 ---
 
+## Core Features
+
+### 1. OmniPort Modularity
+A universal hardware slot that enables:
+- External comms modules (LoRa, UHF/VHF, SatCom)
+- Power packs, solar charging
+- Thermal/IR sensors
+- Tactical interface mounts
+
+### 2. Push-to-Talk (PTT)
+- Dual-side buttons, ambidextrous use
+- Priority system: Left PTT overrides when both are pressed
+- Supported via internal short-range radio (Lite/Core)
+- LoRa/SatCom (optional modules or Guardian-only internal)
+
+### 3. Action Button (Customizable)
+- Configurable per gesture:
+  - Single press
+  - Double press
+  - Long press
+  - 5x rapid press
+- Examples:
+  - Long press = Stealth Mode
+  - Double tap = Open Maps
+  - 5x tap = Send emergency ping
+
+### 4. Stealth Mode
+- Hardware-level stealth toggle via Action Button or software menu
+- Kills all wireless signals (WiFi, LTE, GPS, NFC, Bluetooth)
+- Disables all vibrations and LED notifications
+- Optional integration with OTP + Frequency Hopping modules (Guardian/Pro only)
+
+### 5. Strap System
+- Reinforced strap loop on all models (metal-enhanced on Lite)
+- R1 Lite: Comes with a wrist strap
+- R2+ Models: One-point sling with fast-detach buckle for tactical mounts
+
+---
+
 ## Communication Features
 - **OmniPort Modular Communication**:
   - Accepts short-range antennas for unlicensed half-wavelength UHF comms.
@@ -49,16 +89,19 @@ The **Aegis Mobile** series is a line of ultra-rugged smartphones purpose-built 
   - All models from **Lite upward** include internal radio transceivers.
   - Antenna required via OmniPort.
 - **Dual PTT Design**:
-  - Priority PTT overrides secondary when both pressed.
+  - Priority PTT overrides secondary when both are pressed.
   - Left-hand and right-hand accessibility ensured.
 
 ---
 
 ## OS and Security
 - **Aegis OS**: Custom Android-based operating system.
+- Hardened security layers
+- Secure boot, encrypted storage
+- Rootable in Dev Mode only (via kill switch)
 - **Stealth Mode**:
   - Toggle via Action Button or OS.
-  - Silences all outputs, dims LEDs, severs network signals.
+  - Silences all outputs, dims LEDs, and severs network signals.
 - **Physical Kill Switches**:
   - Independent toggles for mic, GPS, radio, camera, and antenna.
 - **Advanced Communication Protection**:
@@ -93,6 +136,14 @@ The **Aegis Mobile** series is a line of ultra-rugged smartphones purpose-built 
 
 ---
 
+## Use Case Scenarios
+- Civilian hikers/trekkers using offline maps + short-range radio (Lite)
+- Military veterans & EMTs desiring durable comms and mapping (Core)
+- Tactical field ops needing LED, thermal vision & comms (Pro)
+- Underwater salvage/diving teams (Sentinel)
+- Special forces & SAR teams requiring top-tier secure systems (Guardian)
+
+
 ## Version Notes
 This is version **1.5**, consolidating all prior documentation and user-generated insights into a cohesive ecosystem document. Priorities have shifted toward modularity, stealth, and off-grid comms from the original v1.2 specification.
 
@@ -100,3 +151,4 @@ This is version **1.5**, consolidating all prior documentation and user-generate
 
 > "In an age of digital cowardice and signal saturation, Aegis Mobile empowers the strong to survive, to move silently, and to strike with precision."
 
+Credit : cloudyelectron, Gemini & ChatGPT
