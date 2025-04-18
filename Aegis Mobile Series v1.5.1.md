@@ -115,11 +115,13 @@ A universal hardware slot that enables:
   - Attach modular accessories (radios, thermal cameras, batteries).
   - Multi-position: top left (standard), right bottom (Pro and above).
   - Torque-Limited Screws: designed with ratchet and clutch-style torque limiters to prevent damage from over-tightening
-  - Accessories include:
+  - Accessories include(but not limited to):
     - Satellite module
     - Wired thermal imaging camera
     - Long-range antenna
     - External battery connector
+    - Swivel Camera
+    - 1000 Lumen Light
 - **Docking Mount (Guardian only)**:
   - Heavy-duty plate carrier docking via rear housing only.
 
