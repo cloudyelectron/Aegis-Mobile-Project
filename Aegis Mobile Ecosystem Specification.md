@@ -37,7 +37,7 @@
 ### Front:
 - Bottom: Android 3-Button Navigation
 
-**PTT Logic**: If both PTTs are pressed simultaneously, priority (left-side) PTT takes effect.
+**PTT Logic**: If both PTTs are pressed simultaneously, the priority (left-side) PTT takes effect.
 
 
 ## 💡 Custom Action Button Logic
@@ -53,9 +53,9 @@ Configurable with multiple interactions:
 |-----------|-------------------|------------|-------------|--------------|
 | Lite      | ~200lm            | No         | 20MP        | 8MP          |
 | Core      | ~300lm            | No         | 20MP        | 8MP          |
-| Pro       | Up to 800lm       | Yes (thermal) | 20MP        | 8MP          |
-| Sentinel  | 800lm + IR        | Yes        | Enhanced    | Enhanced     |
-| Guardian  | Custom            | Yes        | Enhanced+   | Enhanced+    |
+| Pro       | Up to 800lm       | Yes        | 50MP        | 12MP          |
+| Sentinel  | 800lm + IR        | Yes   (thermal) | Enhanced    | Enhanced     |
+| Guardian  | Custom            | Yes   (thermal) | Enhanced+   | Enhanced+    |
 
 ## 📡 Communication & Ports
 - **LoRa**: From Pro and up (Lite/Core support optional via OmniPort antennas)
@@ -95,4 +95,4 @@ Configurable with multiple interactions:
 
 ---
 
-**Aegis Mobile**: Designed for the real world, forged by those who survived it.
+**Aegis Mobile**: "In a uncontrolled world, Shield is the language."
