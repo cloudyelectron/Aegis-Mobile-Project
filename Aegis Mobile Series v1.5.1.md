@@ -148,12 +148,28 @@ A universal hardware slot that enables:
 
 ---
 
-## Use Case Scenarios
-- Civilian hikers/trekkers using offline maps + short-range radio (Lite)
-- Military veterans & EMTs desiring durable comms and mapping (Core)
-- Tactical field ops needing LED & comms (Pro)
-- Underwater salvage/diving teams (Sentinel)
-- Special forces & SAR teams requiring top-tier secure systems (Guardian)
+## 📘 Use Cases: From Play to Battlefield – One Device for All
+
+Aegis Mobile is not just a rugged smartphone — it is a tactical platform for civilians, professionals, and operatives alike. Its versatility, durability, and modularity make it highly adaptable across different scenarios:
+
+### 🧭 Everyday Play & Adventure
+- **PTT Button for Group Fun**: Easily coordinate with friends or family in outdoor activities like hiking, camping, or festivals — all without relying on mobile networks.
+- **Modular Camera or Flashlight**: Capture special moments or light your way in the dark with just one click.
+- **Button Customization**: Map features like flashlight, camera, or recording to hardware buttons for quick access.
+
+### 🚨 Civilian Use in Emergencies
+- **Disaster-Resilient Communication**: Core and Lite models support short-range PTT communication (100m range) — ideal when cellular networks are down.
+- **LoRa Support** (Pro and up): Enables text-based long-range communication without relying on any infrastructure.
+- **Immediate Evidence Recording**: A single press can start voice or video recording, ideal in situations involving abuse or unlawful authority actions.
+- **Flash + Recording for Defense**: Shine light and record simultaneously to provide both deterrence and evidence.
+
+### 🎖 Tactical Military & Field Operations
+- **Plate Carrier Integration**: Attach directly to vests using the Mount Battery Cover for seamless access and hands-free use.
+- **Multifunction Buttons**: Quickly access maps (ATAK app), comms, or recording with pre-assigned buttons.
+- **OmniPort Connectivity**: Connect to radios, antennas, or extra batteries just like traditional tactical gear.
+- **Single Device Efficiency**: Replace traditional handheld radio, camera, recorder, and flashlight — all integrated into one compact system.
+
+Whether in the hands of civilians during a crisis or military personnel on the battlefield, Aegis Mobile is a single, unified device that empowers all.
 
 
 ## Version Notes
