@@ -113,14 +113,14 @@ A universal hardware slot that enables:
 ## Expansion & Accessories
 - **OmniPort**:
   - Attach modular accessories (radios, thermal cameras, batteries).
-  - Multi-position: top right (standard), right bottom (Pro and above).
+  - Multi-position: top left (standard), right bottom (Pro and above).
   - Accessories include:
     - Satellite module
     - Wired thermal imaging camera
     - Long-range antenna
     - External battery connector
 - **Docking Mount (Guardian only)**:
-  - Heavy-duty plate-style docking via rear housing only.
+  - Heavy-duty plate carrier docking via rear housing only.
 
 ---
 
@@ -139,7 +139,7 @@ A universal hardware slot that enables:
 ## Use Case Scenarios
 - Civilian hikers/trekkers using offline maps + short-range radio (Lite)
 - Military veterans & EMTs desiring durable comms and mapping (Core)
-- Tactical field ops needing LED, thermal vision & comms (Pro)
+- Tactical field ops needing LED & comms (Pro)
 - Underwater salvage/diving teams (Sentinel)
 - Special forces & SAR teams requiring top-tier secure systems (Guardian)
 
@@ -151,4 +151,4 @@ This is version **1.5**, consolidating all prior documentation and user-generate
 
 > "In an age of digital cowardice and signal saturation, Aegis Mobile empowers the strong to survive, to move silently, and to strike with precision."
 
-Credit : cloudyelectron, Gemini & ChatGPT
+Credit: cloudyelectron, Gemini & ChatGPT
