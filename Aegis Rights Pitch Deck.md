@@ -37,7 +37,7 @@ Logo (centered)
 ---
 
 **Slide 5: Key Features**
-- IP68–69 waterproof / dustproof
+- IP68+ waterproof / dustproof
 - Physical kill switches
 - DSSS antenna & stealth communication
 - Rugged polycarbonate body
@@ -80,7 +80,7 @@ Let’s make this real.
 
 **Slide 9: Contact & Next Steps**
 **Project Founder: Cloudyelectron**  
-📧 your-email@example.com  
+📧 cloudyelectron@gmail.com  
 🌐 https://github.com/cloudyelectron/Aegis-Mobile-Project
 
 Let’s build the shield they’ve been waiting for.
