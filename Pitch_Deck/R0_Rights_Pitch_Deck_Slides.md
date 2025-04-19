@@ -1,8 +1,8 @@
-# 📊 Aegis R0 Rights - Pitch Deck Structure
+# Aegis R0 Rights - Pitch Deck Structure
 
 ---
 
-## 🧭 Slide 1: Title Slide
+## Slide 1: Title Slide
 
 - **Project Name**: Aegis R0 Rights
 - **Tagline**: "Digital Survival. For Everyone."
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚨 Slide 2: The Problem
+## Slide 2: The Problem
 
 - Digital survival is a luxury.
 - Billions still lack access to rugged, secure, affordable communication tools.
@@ -18,14 +18,14 @@
 
 ---
 
-## 🛡️ Slide 3: Our Mission
+## Slide 3: Our Mission
 
 - "Protecting digital rights through rugged, resilient, and affordable technology."
 - Access to safe tech should be a right, not a privilege.
 
 ---
 
-## 📱 Slide 4: Introducing Aegis R0 Rights
+## Slide 4: Introducing Aegis R0 Rights
 
 - Visual of the phone (front + back)
 - Durable, secure, and priced at \$130–150
@@ -34,7 +34,7 @@
 
 ---
 
-## 🧩 Slide 5: Key Features
+## Slide 5: Key Features
 
 - DSSS-compatible antenna for privacy
 - Dual customizable physical buttons (PTT / Action)
@@ -43,7 +43,7 @@
 
 ---
 
-## 🎯 Slide 6: Target Users
+## Slide 6: Target Users
 
 - Human rights organizations & NGOs
 - Journalists & activists in high-risk areas
@@ -52,7 +52,7 @@
 
 ---
 
-## 🌍 Slide 7: Market Opportunity
+## Slide 7: Market Opportunity
 
 - Rugged smartphone market is growing
 - Rising demand in Latin America, Africa, Southeast Asia
@@ -60,7 +60,7 @@
 
 ---
 
-## ⚔️ Slide 8: Competitive Advantage
+## Slide 8: Competitive Advantage
 
 | Feature          | Aegis R0                 | Other Rugged Phones |
 | ---------------- | ------------------------ | ------------------- |
@@ -71,7 +71,7 @@
 
 ---
 
-## 🧮 Slide 9: Financial Forecast (Year 1–3)
+## Slide 9: Financial Forecast (Year 1–3)
 
 - Production Cost per Unit: \~\$70
 - Year 1: 20,000 units → \$2.8M revenue
@@ -81,7 +81,7 @@
 
 ---
 
-## 🛠️ Slide 10: Manufacturing & Supply
+## Slide 10: Manufacturing & Supply
 
 - ODM in SE Asia / East Europe / Possibly China
 - Shared rugged shell across models (cost saving)
@@ -89,7 +89,7 @@
 
 ---
 
-## 🚀 Slide 11: Go-To-Market Strategy
+## Slide 11: Go-To-Market Strategy
 
 - Pilot program with NGOs (discounted pricing)
 - Media coverage, on-field testimonials
@@ -98,7 +98,7 @@
 
 ---
 
-## 📈 Slide 12: Growth Vision
+## Slide 12: Growth Vision
 
 - Aegis R1 Haven (mid-tier model)
 - Aegis R2 Link (field veteran version)
@@ -107,14 +107,14 @@
 
 ---
 
-## 👤 Slide 13: Team & Philosophy
+## Slide 13: Team & Philosophy
 
 - Founder with deep survival, privacy, and ethical tech background
 - Design by mission, not market trends
 
 ---
 
-## 📩 Slide 14: Call to Action
+## Slide 14: Call to Action
 
 - Looking for:
   - NGO partners
@@ -124,7 +124,7 @@
 
 ---
 
-# 📰 One-Pager: Aegis R0 Rights
+# One-Pager: Aegis R0 Rights
 
 **Logo + Tagline**: "Aegis R0 Rights — Digital Survival for Everyone"
 
