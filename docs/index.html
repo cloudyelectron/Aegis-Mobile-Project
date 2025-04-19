@@ -1,19 +1,39 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ko">
 <head>
   <meta charset="UTF-8" />
-  <meta http-equiv="refresh" content="0; url=./en/index.html" />
-  <script>
-    const lang = navigator.language || navigator.userLanguage;
-    if (lang.startsWith('ko')) {
-      window.location.href = './ko/index.html';
-    } else {
-      window.location.href = './en/index.html';
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Aegis Mobile - Rights</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 2rem;
+      background-color: #f2f2f2;
+      text-align: center;
     }
-  </script>
-  <title>Aegis Mobile - Redirecting...</title>
+    .logo {
+      width: 160px;
+      margin-bottom: 2rem;
+    }
+    .lang-links {
+      margin-top: 1.5rem;
+    }
+    .lang-links a {
+      margin: 0 10px;
+      text-decoration: none;
+      color: #0066cc;
+    }
+  </style>
 </head>
 <body>
-  <p>Redirecting based on your language preference...</p>
+  <img src="assets/aegis_logo.png" alt="Aegis Logo" class="logo" />
+  <h1>당신의 작은 방패, Aegis Rights</h1>
+  <p>디지털 생존과 권리를 위한 러기드 스마트폰</p>
+
+  <div class="lang-links">
+    <a href="index.html">한국어</a> |
+    <a href="en/index.html">English</a>
+  </div>
 </body>
 </html>
