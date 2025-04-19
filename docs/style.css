@@ -73,3 +73,9 @@ footer {
   color: #555;
   border-top: 2px solid #ccc;
 }
+.logo {
+    max-width: 200px; 
+    height: auto;    
+    display: block; 
+    margin: 0 auto;  
+    padding-bottom: 20px
