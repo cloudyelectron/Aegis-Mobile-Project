@@ -11,4 +11,4 @@ Aegis Mobile은 정보, 안전, 생존을 위해 싸우는 시민들을 위한 �
 
 ## 🌱 R0 'Rights' 모델
 가장 저렴하고, 가장 필요한 사람을 위한 방패.  
-자세한 내용은 [`docs/Aegis_R0_Rights.md`](docs/Aegis_R0_Rights.md) 참고.
+자세한 내용은 [`docs/Aegis_R0_Rights_intro.md`](docs/Aegis_R0_Rights_intro.md) 참고.
