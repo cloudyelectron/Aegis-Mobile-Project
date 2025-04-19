@@ -1,5 +1,8 @@
 # Aegis Rights: A Rugged Smartphone for the Marginalized
 
+![Aegis Logo](https://raw.githubusercontent.com/cloudyelectron/Aegis-Mobile-Project/main/Pitch_Deck/Aegis_Mobile_%20LOGO.png)
+
+
 ---
 
 **Proposal Summary**
