@@ -30,7 +30,7 @@
 
 | Feature               | Description                             |
 |------------------------|------------------------------------------|
-| **Display**            | 5.5” HD LCD (efficient, readable)        |
+| **Display**            | 5” HD LCD (efficient, readable)        |
 | **Battery**            | 5000mAh, removable                       |
 | **Chipset**            | Cost-efficient SoC (e.g. Unisoc T310)    |
 | **Cameras**            | 12MP rear / 5MP front                    |
