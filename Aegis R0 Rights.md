@@ -1,4 +1,4 @@
-*Aegis Rights: A Rugged Smartphone for the Marginalized*
+***Aegis Rights: A Rugged Smartphone for the Marginalized***
 
 ---
 
