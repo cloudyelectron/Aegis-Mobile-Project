@@ -1,6 +1,9 @@
-Aegis Mobile: The Beginning of Survival-Focused Smart Devices
+# Aegis Mobile: The Beginning of Survival-Focused Smart Devices
+
 🌱 Brand Overview
+
 Aegis Mobile is a rugged smartphone ecosystem centered on digital survival, privacy, and field reliability.
+
 We’re not just building tough phones—we’re creating shields that protect people.
 
 Our journey starts from the ground up—
@@ -8,6 +11,7 @@ R0 'Rights' is a survival-oriented smartphone for low-income users, activists, a
 From this foundation, we’re planning steady and meaningful product lineup expansion.
 
 📱 Aegis R1 Haven — The Shield in Your Daily Life
+
 💡 Positioning
 A budget-to-mid-tier device for users upgrading from R0
 
@@ -80,6 +84,7 @@ Gen 1	R0 Rights	Basic survival device	Practical core	$130–150
 Gen 1.5	R1 Haven	Daily/pro use hybrid	Modular/Secure	$250–300
 Gen 2	R2 Link	Field professionals	Compact/Smart	$400–450
 Gen 2.5	R3 Aegis	Stealth operations	Precision/Covert	$550–600
+
 💥 Brand Vision
 “Protection begins with the device in your hand.”
 Technology’s future shouldn’t only benefit the powerful.
