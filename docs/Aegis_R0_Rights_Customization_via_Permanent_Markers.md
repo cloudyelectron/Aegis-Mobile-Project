@@ -1,6 +1,6 @@
 # Aegis R0 Rights — Customization via Permanent Markers
 
-## 🎨 Concept: Personal Canvas of Rights
+## Concept: Personal Canvas of Rights
 
 Aegis R0 Rights is designed for the people—people who have their own stories, identities, and messages to share.
 
@@ -8,7 +8,7 @@ By offering a way to personalize their phones with **non-toxic permanent markers
 
 ---
 
-### ✏️ Use Cases
+### Use Cases
 
 - **Identity Marking:**
   - Users can write their name, unit ID, or contact tag directly onto the back of the R0.
@@ -27,7 +27,7 @@ By offering a way to personalize their phones with **non-toxic permanent markers
 
 ---
 
-### 🖍️ Pen Specifications
+### Pen Specifications
 
 - Designed for **polycarbonate and rugged matte plastics**
 - **Non-toxic and low-odor** (safe for long-term contact)
@@ -36,7 +36,7 @@ By offering a way to personalize their phones with **non-toxic permanent markers
 
 ---
 
-### 🧠 Slogan:
+### Slogan:
 > “Draw on your canvas of rights.”
 
 The R0 isn’t just a survival phone—it's a statement. A call to reclaim identity and pride in a world that often forgets the individual.
