@@ -32,13 +32,13 @@
 |------------------------|------------------------------------------|
 | **Display**            | 5.5” HD LCD (efficient, readable)        |
 | **Battery**            | 5000mAh, removable                       |
-| **Chipset**            | Cost-efficient SoC (e.g. Unisoc SC9863) |
+| **Chipset**            | Cost-efficient SoC (e.g. Unisoc T310)    |
 | **Cameras**            | 12MP rear / 5MP front                    |
-| **Body**               | Rugged polycarbonate                    |
+| **Body**               | Rugged polycarbonate                     |
 | **Buttons**            | Dual: PTT + customizable Action Button   |
 | **Connectivity**       | DSSS antenna, secure comm options        |
-| **Extras**             | Shield LED, reinforced strap loop       |
-| **OS**                 | Aegis OS (Android-based, de-bloated)    |
+| **Extras**             | Shield LED, reinforced strap loop        |
+| **OS**                 | Aegis OS (Android-based, de-bloated)     |
 
 ---
 
