@@ -133,7 +133,7 @@ Aegis R0 is a rugged, affordable smartphone built for activists, field workers, 
 
 **Key Specs**:
 
-- IP69 / MIL-STD-810H
+- IP68+ / MIL-STD-810H
 - DSSS Antenna for stealth
 - Dual physical buttons (PTT/Action)
 - 5000mAh battery
