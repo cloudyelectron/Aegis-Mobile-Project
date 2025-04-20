@@ -45,7 +45,7 @@
 
 - DSSS-compatible antenna for privacy
 - Dual customizable physical buttons (PTT / Action)
-- 5000mAh battery, IP69 & MIL-STD-810H rugged
+- 5000mAh battery, IP68+ & MIL-STD-810H rugged
 - Privacy OS: Aegis OS
 
 ---
