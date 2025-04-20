@@ -1,3 +1,8 @@
+> ⚠️ **PREVIEW VERSION**  
+> This document is a work-in-progress draft and may be subject to change.  
+
+---
+
 # Aegis R0 Rights - Pitch Deck Structure
 
 ![Aegis Logo](https://raw.githubusercontent.com/cloudyelectron/Aegis-Mobile-Project/main/Pitch_Deck/Aegis_Mobile_%20LOGO.png)
