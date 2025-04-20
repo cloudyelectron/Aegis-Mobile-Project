@@ -54,6 +54,7 @@ Billions remain underserved in the digital worldâ€”not because smartphones donâ€
 - Rubber port covers for easy manufacturing.
 - No aluminum frames or curved glass; all plastic external housing.
 - Shared chassis and components with R1 Haven model.
+- Honeycomb internal structure to ensure Durability.
 - Minimal marketing budget; community-driven growth.
 
 ---
@@ -89,7 +90,7 @@ R0 Rights Specification&#x9;
 -	Body construction: Polycarbonate, IP68+, MIL-STD-810-Lite
 -	Port: USB-C with Rubber port covers
 -	Button: Dual PTT + Action Button (Programmable)
--	Expendability : microSD (supports 64GB), Supports DSSS Module, No OmniPort, BasicPort
+-	Expendability: microSD (supports 64GB), Supports DSSS Module, No OmniPort, BasicPort
 -	OS: Aegis OS Lite
 
 ---
