@@ -30,7 +30,7 @@
 ## Slide 4: Introducing Aegis R0 Rights
 
 - Visual of the phone (front + back)
-- Durable, secure, and priced at \$130–150
+- Durable, secure, and priced at \Under $200
 - Honeycomb shock-absorbing core
 - Write-and-erase polycarbonate surface (for ID/art)
 
@@ -148,7 +148,7 @@ Aegis R0 is a rugged, affordable smartphone built for activists, field workers, 
 - NGO workers
 - Budget minimalists
 
-**Price**: \$130–150 USD
+**Price**: \Under $200 USD
 
 **Pilot Program**:
 Offering early partnerships to NGOs and field orgs at discounted prices for feedback, impact, and awareness.
