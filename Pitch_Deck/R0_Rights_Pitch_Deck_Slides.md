@@ -66,7 +66,7 @@
 
 | Feature          | Aegis R0                 | Other Rugged Phones |
 | ---------------- | ------------------------ | ------------------- |
-| Price            |  Affordable (\Under $200) |  Often \$300+      |
+| Price            |  Affordable (Under $200) |  Often \$300+      |
 | Stealth Features |  DSSS, secure OS        |  Lacking           |
 | Customization    |  Writable Body          |  None              |
 | Philosophy       |  Rights-focused         |  Military-focused  |
