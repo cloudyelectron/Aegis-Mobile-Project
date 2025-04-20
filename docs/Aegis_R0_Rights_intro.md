@@ -10,7 +10,7 @@
 **Project Name**: Aegis Rights (R0 Model)\
 **Category**: Rugged, Modular, Affordable Smartphone\
 **Target Users**: Impoverished civilians, activists, workers, refugees, and frontline defenders\
-**Target Price**: \Under $200 retail\
+**Target Price**: Under $200 retail\
 **Manufacturing Goal**: Cost-optimized, reliable production for low-income accessibility
 
 ---
