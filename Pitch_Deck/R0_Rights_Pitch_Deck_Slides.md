@@ -66,7 +66,7 @@
 
 | Feature          | Aegis R0                 | Other Rugged Phones |
 | ---------------- | ------------------------ | ------------------- |
-| Price            |  Affordable (\$130–150) |  Often \$300+      |
+| Price            |  Affordable (\Under $200) |  Often \$300+      |
 | Stealth Features |  DSSS, secure OS        |  Lacking           |
 | Customization    |  Writable Body          |  None              |
 | Philosophy       |  Rights-focused         |  Military-focused  |
@@ -75,7 +75,7 @@
 
 ## Slide 9: Financial Forecast (Year 1–3)
 
-- Production Cost per Unit: \~\$70
+- Production Cost per Unit: \~\$120
 - Year 1: 20,000 units → \$2.8M revenue
 - Year 2: 40,000 units → \$5.6M revenue
 - Year 3: 80,000 units → \$11.2M revenue
